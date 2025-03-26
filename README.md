@@ -1,5 +1,4 @@
 Simple Vector Machine
-Simple Vector Machine
 
 Welcome to Simple Vector Machine! This project is a straightforward implementation of a Support Vector Machine (SVM) algorithm, 
 designed to help you understand and apply SVMs to your data efficiently and effectively.
